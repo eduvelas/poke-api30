@@ -2,12 +2,11 @@
     box-sizing: border-box;
 }
 body {
-    margin: 0;
     font-family: sans-serif;
     background-image: url(../image/p1.png);
     background-repeat: no-repeat;
     background-attachment: fixed;
-    background-size: 100%;
+    background-size: cover;
 }
 
 .b1 {
